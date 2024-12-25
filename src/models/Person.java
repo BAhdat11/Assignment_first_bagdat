@@ -4,7 +4,7 @@ class Person {
     private String name;
     private String surname;
     private int age;
-    private boolean gender; // true = Male, false = Female
+    private boolean gender;
 
     public Person(String name, String surname, int age, boolean gender) {
         this.name = name;
